@@ -7,3 +7,5 @@
 6. Ragdoll
 7. Scottish Fold
 8. Sphynx cat
+9. Russian Blue
+10. Turkish Angora
