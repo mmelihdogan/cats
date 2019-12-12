@@ -7,3 +7,4 @@
 6. Ragdoll
 7. Scottish Fold
 8. Russian Blue
+9. Turkish Angora
